@@ -1,4 +1,5 @@
-📦 Amazon Review Sentiment Analysis
+## 📦 Amazon Review Sentiment Analysis
+
 This project analyzes customer reviews from Amazon using Natural Language Processing (NLP) and Machine Learning techniques. The goal is to classify reviews as positive, negative, or neutral, and generate actionable business insights based on customer sentiment.
 
 📊 Objectives
