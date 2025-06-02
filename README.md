@@ -1,8 +1,8 @@
-## 📦 Amazon Review Sentiment Analysis
+# 📦 Amazon Review Sentiment Analysis
 
 This project analyzes customer reviews from Amazon using Natural Language Processing (NLP) and Machine Learning techniques. The goal is to classify reviews as positive, negative, or neutral, and generate actionable business insights based on customer sentiment.
 
-# 📊 Objectives
+## 📊 Objectives
 🧹 Clean and preprocess Amazon review data
 
 📈 Perform Exploratory Data Analysis (EDA)
@@ -17,7 +17,7 @@ Naive Bayes
 
 Gradient Boosting
 
-# 📊 Visualize trends and insights using Power BI
+## 📊 Visualize trends and insights using Power BI
 
 🧪 Models & Evaluation
 Each model was evaluated using the following standard metrics:
@@ -47,7 +47,7 @@ Visualization: Power BI
 
 Dataset: Amazon reviews (CSV format)
 
-# 📌 Future Improvements
+## 📌 Future Improvements
 🚀 Integrate deep learning models like LSTM and BERT
 
 🌐 Develop an interactive web application for live sentiment prediction
